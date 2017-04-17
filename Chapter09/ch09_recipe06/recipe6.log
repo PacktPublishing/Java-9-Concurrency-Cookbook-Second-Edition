@@ -1,0 +1,28 @@
+[FINER] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main() : ENTRY
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Launching thread: 0
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread created: Thread-0
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Launching thread: 1
+[FINER] - Thu Jan 26 00:01:28 CET 2017 : Thread-0.run() : ENTRY
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread created: Thread-1
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Launching thread: 2
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread created: Thread-2
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Launching thread: 3
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread created: Thread-3
+[FINER] - Thu Jan 26 00:01:28 CET 2017 : Thread-2.run() : ENTRY
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Launching thread: 4
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread created: Thread-4
+[INFO] - Thu Jan 26 00:01:28 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Ten Threads created. Waiting for its finalization
+[FINER] - Thu Jan 26 00:01:28 CET 2017 : Thread-3.run() : ENTRY
+[FINER] - Thu Jan 26 00:01:28 CET 2017 : Thread-4.run() : ENTRY
+[FINER] - Thu Jan 26 00:01:28 CET 2017 : Thread-1.run() : ENTRY
+[FINER] - Thu Jan 26 00:01:30 CET 2017 : Thread-0.run() : RETURN
+[INFO] - Thu Jan 26 00:01:30 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread has finished its execution
+[FINER] - Thu Jan 26 00:01:30 CET 2017 : Thread-2.run() : RETURN
+[FINER] - Thu Jan 26 00:01:30 CET 2017 : Thread-3.run() : RETURN
+[FINER] - Thu Jan 26 00:01:30 CET 2017 : Thread-1.run() : RETURN
+[INFO] - Thu Jan 26 00:01:30 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread has finished its execution
+[INFO] - Thu Jan 26 00:01:30 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread has finished its execution
+[FINER] - Thu Jan 26 00:01:30 CET 2017 : Thread-4.run() : RETURN
+[INFO] - Thu Jan 26 00:01:30 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread has finished its execution
+[INFO] - Thu Jan 26 00:01:30 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main : Thread has finished its execution
+[FINER] - Thu Jan 26 00:01:30 CET 2017 : com.packtpub.java9.concurrency.cookbook.chapter09.recipe06.core.Main.main() : RETURN
