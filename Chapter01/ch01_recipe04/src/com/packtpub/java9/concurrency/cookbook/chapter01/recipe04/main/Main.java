@@ -24,7 +24,7 @@ public class Main {
 		thread.start();
 		try {
 			// Waits five seconds
-			TimeUnit.SECONDS.sleep(5000);
+			TimeUnit.SECONDS.sleep(5);
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
